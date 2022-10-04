@@ -1,4 +1,4 @@
-# DDos-Attack ------- Hack with Vyshu / keralahacker|
+# DDos-Attack ------- Hack with Navaneeth / Peter Matnick|
 #---------------------------------------------------|
 
 ### What Is A DDos-Attack
@@ -11,7 +11,7 @@ from banks to news websites, and present a major challenge to making sure people
 
 ### Dwonload&Install commands below
 
-### git clone https://github.com/keralahacker/ddos-attack.git
+### git clone https://github.com/PETERMATNICK7/ddos-attack.git
 
 ### cd ddos-attack
 
@@ -26,21 +26,12 @@ from banks to news websites, and present a major challenge to making sure people
 
 ### Dwonload&Install
 
-### https://github.com/keralahacker/ddos-attack.git
+### git clone https://github.com/PETERMATNICK7/ddos-attack.git
 
 ### cd ddos-attack
 
 ### chmod +x install.sh
 
 ### ./install.sh
-
-### YouTube channel
-
-https://www.youtube.com/channel/UCBshYeasyhn3COZHtAe9yNg
-
-### Video Tutorial
-
- will be updated soon.........!!!!!!!!!!
-
 
 ###-----------------------------------------------------||
