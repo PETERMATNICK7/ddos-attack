@@ -28,9 +28,9 @@ print("""\033[1;31m  \033[92m
  |___/|___/ \___/|___/ /_/ \_\_|   |_/_/ \_\___|_|\_\ 
                                                       
  
-              Script By     =>  Hack with Vyshu 
-              instagram     =>  @hack_wityh_vyshu 
-              github        =>  keralahacker 
+              Script By     =>  Navaneeth (peter matnick) 
+              instagram     =>  @peter_matnick_ 
+              github        =>  PETERMATNICK7 
 ============================================================
 """)
 
